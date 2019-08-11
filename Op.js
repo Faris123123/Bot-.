@@ -8,7 +8,11 @@ console.log(`
 Login successful.
 
 -----------------
-OVER POWER_Discord Bot          
+OVER POWER_Discord Bot
+
+
+
+          
 -----------------
 ${client.user.username}
 
